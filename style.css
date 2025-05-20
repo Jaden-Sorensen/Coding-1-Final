@@ -1,0 +1,30 @@
+.c1{
+    color: #02e8f8;
+    font-size: 16px;
+    font-weight: bold;
+}
+.c2{
+    color: #000;
+    font-size: 32px;
+    font-weight: 900;
+}
+.c3{
+    color: #000;
+    font-size: 16px;
+    font-weight: 900;
+}
+p{
+    color: #fd0202;
+    font-size: 16px;
+    font-weight: normal;
+}
+h1{
+    color: #330000;
+    font-size: 16px;
+    font-weight: bold;
+}
+h2{
+    color: #5a0404;
+    font-size: 16px;
+    font-weight: bold;
+}
